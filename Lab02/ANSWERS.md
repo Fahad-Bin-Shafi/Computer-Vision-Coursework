@@ -1,6 +1,7 @@
 # Lab 02: Answers
 
-Haider Mushtaq, FA23-BAI-044
+Fahad Bin Shafi, 
+FA23-BAI-033
 
 All numbers come from `results/comparison_table.csv` and `results/delta_vs_baseline.csv`. Test set is 381 images, held out by lesion so no image of a test lesion appears in training.
 
